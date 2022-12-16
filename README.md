@@ -1,4 +1,4 @@
-# Welcome my Github profile!
+# Welcome my Github profile! - PeachRapit1022
 
 I am a student living in Kobe, Japan.  
 I am studying to become an engineer.  
