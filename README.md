@@ -1,8 +1,6 @@
 # Welcome my Github profile! - PeachRapit1022
 
-I am a student living in Kobe, Japan.  
-I am studying to become an engineer.  
-Recently I am learning Python and React.  
+Frontend Engineer, Next.js, React
 
 ### Twitter
 https://twitter.com/akira_i_1022
